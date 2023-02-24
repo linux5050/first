@@ -1,2 +1,3 @@
 
-echo "hi i am Piyush"
+echo "hi i am Linux"
+pwd
